@@ -1,0 +1,15 @@
+- noticia 1:
+    name: La noticia del día !
+    description: La descripción de la noticia del día !
+    body: |
+      Tenemos información para presentar !
+    img: https://someurl.jpg
+    date: yyyyMMdd
+
+- noticia 2:
+    name: La noticia del día !
+    description: La descripción de la noticia del día !
+    body: |
+      Tenemos información para presentar !
+    img: https://someurl.jpg
+    date: yyyyMMdd
