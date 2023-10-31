@@ -5,7 +5,7 @@
   image: https://someurl.jpg
   date: yyyyMMdd
 
-- title: La noticia del día !
+- title: La noticia del día 2 !
   description: La descripción de la noticia del día !
   body: |
     Tenemos información para presentar !
