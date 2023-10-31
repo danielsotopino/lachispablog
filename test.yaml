@@ -10,8 +10,8 @@
 - id: 2
   title: La noticia del día 2 !
   admin: La chispita
-  description: La descripción de la noticia del día !
+  description: La descripción de la noticia del día 2 !
   body: |
-    Tenemos información para presentar !
+    Tenemos información para presentar 2 !
   image: https://someurl.jpg
   date: yyyyMMdd
