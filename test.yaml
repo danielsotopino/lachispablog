@@ -1,15 +1,13 @@
-- noticia 1:
-    title: La noticia del día !
-    description: La descripción de la noticia del día !
-    body: |
-      Tenemos información para presentar !
-    image: https://someurl.jpg
-    date: yyyyMMdd
+- title: La noticia del día !
+  description: La descripción de la noticia del día !
+  body: |
+    Tenemos información para presentar !
+  image: https://someurl.jpg
+  date: yyyyMMdd
 
-- noticia 2:
-    title: La noticia del día !
-    description: La descripción de la noticia del día !
-    body: |
-      Tenemos información para presentar !
-    image: https://someurl.jpg
-    date: yyyyMMdd
+- title: La noticia del día !
+  description: La descripción de la noticia del día !
+  body: |
+    Tenemos información para presentar !
+  image: https://someurl.jpg
+  date: yyyyMMdd
